@@ -1,0 +1,16 @@
+if connection is {allowed then} set :dataLine = false
+
+dataLine = connection:function(connection(allowed,true,false))
+
+j.ploit = site.connection{dataLine}
+
+public.TL = site.public:connection{dataLine}
+
+<!--This is for other sites to link to here-->
+j.ploit[allowed] = false
+
+<!--This i public testing it allows other ppl to connection:site
+public.TL[allowed]
+
+
+

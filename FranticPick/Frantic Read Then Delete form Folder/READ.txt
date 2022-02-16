@@ -1,0 +1,19 @@
+Frantic make sure to test the page for anything that could
+have a exploit to get it shut down
+don't use a htp:// thoses are easy to hack trust me 
+use a https:// thoses you can't hack the easy
+DELETE THIS FOLDER WHEN DONE DO NOT LET IT GET IT OUT
+Open Sugg.:{IP}
+then open connection and edit the settings and copy it to main site folder
+not a lot in there yet just a couple
+also make sure not to fuck anything up or you can get hacked and sued :)
+
+Copyright *2022*
+All rights belog to Rep.comp (Line,21)
+No copy shall use .Lo{code
+if true then all rights will be removed and climed Court.21
+
+
+Content (MAEASITMSICAI@gmail.com)
+
+Copyright *2022*
